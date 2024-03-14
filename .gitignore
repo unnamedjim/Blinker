@@ -30,3 +30,7 @@ fp-info-cache
 
 # DS_Store
 **/.DS_Store
+.micropico
+.vscode/extensions.json
+.vscode/Pico-W-Stub
+.vscode/settings.json
